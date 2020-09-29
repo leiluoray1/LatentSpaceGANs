@@ -1,5 +1,3 @@
-## LSGANs: Towards Fine-grained Control on Latent Space for Unpaired Image-to-Image Translation
-
 ### edge to shoes Translation
 
 ![](results/edge2shoe.png)
