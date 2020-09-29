@@ -1,0 +1,5 @@
+*.tar.gz
+*ipynb
+*.zip
+*.pkl
+*.pyc
